@@ -4,7 +4,7 @@
 
 - [Backend Communication Design Patterns](#contents)
   - [Request Response](#contents)
-  - [Synchronouse_vs_Asynchronouse_Workloads](#contents)
+  - [Synchronouse vs Asynchronouse Workloads](#contents)
   - [Push](#contents)
   - [Polling](#contents)
   - [Long Polling](#contents)
